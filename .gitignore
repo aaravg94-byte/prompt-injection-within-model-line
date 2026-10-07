@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+experiment_GOOD_refactor_plus_resume.py
+experiment_refactor_only.py
+results_6model_groq.csv
+results_old_105.csv
+full_sweep_14model.log
+.env
